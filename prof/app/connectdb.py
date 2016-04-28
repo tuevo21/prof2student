@@ -1,7 +1,7 @@
 import psycopg2
 
 def connect():
-    return psycopg2.connect("dbname='qz_01' user='qzpostgre' host='qz-test-1.ch6aycsa7fjf.us-west-2.rds.amazonaws.com' password='dichoidi' port='5432'")
+    return psycopg2.connect("dbname='' user='' host='' password='' port=''")
 
 ##specify function to connect to database
 
